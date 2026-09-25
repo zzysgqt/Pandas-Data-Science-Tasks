@@ -1,0 +1,23 @@
+{
+  "valid_source_rows": 185950,
+  "strict_2019_rows": 185916,
+  "duplicate_participating_rows": 528,
+  "extra_duplicate_rows": 264,
+  "affected_order_ids": 264,
+  "duplicated_units": 267,
+  "duplicated_sales": 26498.03,
+  "duplicated_sales_rate_percent": 0.0768,
+  "clean_2019_rows": 185652,
+  "unique_orders_before": 178406,
+  "unique_orders_after": 178406,
+  "sales_before": 34483365.68,
+  "sales_after": 34456867.65,
+  "top_sales_product": "Macbook Pro Laptop",
+  "top_product_sales_share_percent": 23.31,
+  "top_five_sales_share_percent": 65.87,
+  "products_needed_for_80_percent_sales": 8,
+  "focus_products": [
+    "iPhone",
+    "27in 4K Gaming Monitor"
+  ]
+}

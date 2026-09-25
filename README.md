@@ -1,6 +1,18 @@
 # Pandas-Data-Science-Tasks
 Set of real world data science tasks completed using the Python Pandas library.
 
+## Independent extended analysis (Chinese)
+
+This fork adds a reproducible, portfolio-style extension in
+[`extended_analysis`](extended_analysis/README.md). It audits exact duplicate
+transaction rows, rebuilds the product analysis on the deduplicated data, and
+extends the tutorial with product portfolio, illustrative inventory, and city
+driver analyses. The original tutorial and attribution remain unchanged.
+
+本分支在原教程基础上增加了一个可复现的中文探究项目，入口见
+[`extended_analysis/README.md`](extended_analysis/README.md)。扩展内容包括完全重复记录审计、
+去重后的商品组合分析、示例性补货点比较和重点城市销售拆解。
+
 ## Setup
 
 To access all of the files I recommend you fork this repo and then clone it locally. Instructions on how to do this can be found here: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
